@@ -22,7 +22,8 @@
     aws configure
 ![](https://lh5.googleusercontent.com/ui6g8zYPl4sLOoGlvJByEoc3QE21kBnaazZDebPQ0gEBN7yan8BP71S3Qy5vBDIWcPdEJAKJLMmiIwHc5D05E_pBtFqt-LV-kPM50x2PlIke79f0sGtAn9D8avEURJEGO5wslUGzdIh_Lx25v2U)
 
-#### kubectl cluster-info
+    kubectl cluster-info
+
 ![](https://lh6.googleusercontent.com/klsEg1CXx7e78AiYi4D2FxJ2TGR2NJtF0RY4j9nqGDKdDZA3tSY9DVqj7vrO1WANMSOdVqfSCqxmBF4EIq5fu6DLzokOGBIWeGPV5Sagiqd3VqIruSbItgFiwMt6pBad_C7mh_eOyu5WO--7TSM)
 
 ### Download the IAM Authenticator
@@ -43,3 +44,5 @@ curl -o aws-iam-authenticator [https://s3.us-west-2.amazonaws.com/amazon-eks/1.2
     aws eks update-kubeconfig --name terraform-eks-demo --region=us-west-2
 
 ![](https://lh6.googleusercontent.com/BM9XCn3uZv0409MkBRRB9zqKSrc2wCy3iQV4x6LPr-M0Jn-DF_s8ENOr_FOh8Chi-j_abRoDkZ0dMUISWWQrMRbvipd7hfnHNkaHlR-yEcWaFme11ciD_Z5uk7V2I9SW3lly7x4Jr4TnIl1SEDE)
+
+
