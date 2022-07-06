@@ -1,4 +1,5 @@
-## Using Terraform Deploy Aws EKS and Configure Prometheus-Operator [Prometheus| Grafana | Alert Manager] in the Kubernetes
+
+## Using Terraform Deploy Aws EKS and Configure Prometheus-Operator [Prometheus | Grafana | Alert Manager] in the Kubernetes
 ### Download Terraform
     curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -
     sudo apt-add-repository "deb [arch=amd64] 
