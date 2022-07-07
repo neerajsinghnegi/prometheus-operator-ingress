@@ -88,3 +88,10 @@ Make sure you have created the hosted zone record for the loadbalancer. So that 
 #### Alert Manager service running on port 9093
 ![](https://lh5.googleusercontent.com/Ni5gkcjLBENribilzCp75lEICNMzwLSembeT69Bg0EDVAOKM20M-N_fRra-1XdeleVDAu3w2rLfvxf91ZOUmdb-KHbXjjNRWn9T409Y7t2uryPUHYOcZW3MrmxiXnzAQqZsRBklU2_rBjz9KFmo)
 
+#### Setting up Grafana Monitoring
+1.  Add Datasource Prometheus
+2.  Import K8s cluster Dashboard (6417)
+![](https://lh3.googleusercontent.com/KSxnrWQ-_UH_64Nb0H92XWYBhbse3Xi_RpvucIRhor53S-XCJNIbXcviuvd0ecMQQDDP4hkfWKi0hIe4Urbeh8EJBHspphqHx6jSQ-ES-BH9VSiNmOgOzb_-a2fV86MspqpOY0VtmUhToAnAEHg)
+
+#### Grafana Dashboard
+![](https://lh3.googleusercontent.com/C9SggXMvkK1ikt-7QES1lxQsSgc5KlVZm7VGiOhYGruUv2rOLQ-wdgN2aQBpz4FhiBHx1VPmxAq5O--uPTqucIK_hF4L8wV1D7FOfCN5b8Pql3WpBLZ_Ugo1vCn3q3OTQ1NtMYfMJ36Ddz9POis)
